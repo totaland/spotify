@@ -1,0 +1,14 @@
+{
+    "spotifyenv": {
+        "awscloudformation": {
+            "AuthRoleName": "spotify-spotifyenv-20190809230424-authRole",
+            "UnauthRoleArn": "arn:aws:iam::488315833985:role/spotify-spotifyenv-20190809230424-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::488315833985:role/spotify-spotifyenv-20190809230424-authRole",
+            "Region": "ap-southeast-2",
+            "DeploymentBucketName": "spotify-spotifyenv-20190809230424-deployment",
+            "UnauthRoleName": "spotify-spotifyenv-20190809230424-unauthRole",
+            "StackName": "spotify-spotifyenv-20190809230424",
+            "StackId": "arn:aws:cloudformation:ap-southeast-2:488315833985:stack/spotify-spotifyenv-20190809230424/36c3cd50-baa6-11e9-880a-02de0dfac7f6"
+        }
+    }
+}
